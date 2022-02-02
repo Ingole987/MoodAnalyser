@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\MoodAnalyserApp.exe
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\MoodAnalyserApp.deps.json
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\MoodAnalyserApp.runtimeconfig.json
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\MoodAnalyserApp.dll
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\ref\MoodAnalyserApp.dll
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\bin\Debug\net6.0\MoodAnalyserApp.pdb
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.AssemblyInfo.cs
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.dll
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\ref\MoodAnalyserApp.dll
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.pdb
+C:\Users\prati\source\repos\MoodAnalyserApp\MoodAnalyserApp\obj\Debug\net6.0\MoodAnalyserApp.genruntimeconfig.cache

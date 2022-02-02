@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c95d49e-6a48-47b1-8621-3f4ab23f53f4": {
+      "ProjectGuid": "2c95d49e-6a48-47b1-8621-3f4ab23f53f4",
+      "DisplayName": "MoodAnalyserApp",
+      "ColorIndex": 0
+    },
+    "eeacbadf-f3cc-4ec9-bc62-45d14bab08f0": {
+      "ProjectGuid": "eeacbadf-f3cc-4ec9-bc62-45d14bab08f0",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
